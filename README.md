@@ -1,1 +1,1 @@
-This project is trial purpose.
+This project is for trial purpose.
